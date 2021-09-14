@@ -9,7 +9,6 @@
 -->
 
 <h2 align="center">Atualmente aprendendo</h2>
-<p align="center">Linguagens que estou aprendendo</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/874116193861115916/887169158851215390/5848152fcef1014c0b5e4967.png" height='42px'/>
