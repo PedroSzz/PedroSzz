@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1023259024713601106/1061382926832513114/icons8-python-144.png" height='42px'/>
-  <img src="https://cdn.discordapp.com/attachments/874116193861115916/887168275761479680/kisspng-node-js-javascript-website-development-express-js-weekly-2-5b7c78fc5a3e87.971757701534884092.png" height='42px'/>
+  <img src="https://media.discordapp.net/attachments/1023259024713601106/1061383198803755048/icons8-javascript-144.png" height='42px'/>
 </p>
 
 <h2 align="center">Estatísticas</h2>
