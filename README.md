@@ -11,7 +11,7 @@
 <h2 align="center">Atualmente aprendendo</h2>
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/78325464/211169425-3f4ca8e9-4fe9-46c9-a849-c636b99aef31.png)" height='42px'/>
+  <img src="https://media.discordapp.net/attachments/1023259024713601106/1061382063946747994/download.jpg" height='42px'/>
   <img src="https://cdn.discordapp.com/attachments/874116193861115916/887168275761479680/kisspng-node-js-javascript-website-development-express-js-weekly-2-5b7c78fc5a3e87.971757701534884092.png" height='42px'/>
 </p>
 
