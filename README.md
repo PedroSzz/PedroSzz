@@ -14,13 +14,3 @@
   <img src="https://media.discordapp.net/attachments/1023259024713601106/1061382926832513114/icons8-python-144.png" height='42px'/>
   <img src="https://media.discordapp.net/attachments/1023259024713601106/1061383198803755048/icons8-javascript-144.png" height='42px'/>
 </p>
-
-<h2 align="center">Estatísticas</h2>
-<p align="center">Minhas estatísticas atuais do Github</p>
-<p align="center">
-</p>
-
-![PedrooSzz GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedroo&show_icons=true&theme=radical)
-
-<p align="center">
-<img style="float: right;" alt="Línguas Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flairings&layout=compact&hide_border=true&theme=dark" />
